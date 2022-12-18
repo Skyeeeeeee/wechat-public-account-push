@@ -15,8 +15,10 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'b3b71e8388064c122c64a597b4537908',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '内蒙古',
+  CITY: '呼伦贝尔',
+  
+  openURL:"www.baidu.com",
 
   USERS: [
     {
